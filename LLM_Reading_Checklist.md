@@ -23,9 +23,9 @@ Use `+` to mark completed items and add the date when finished.
 ## Phase 2: Core LLM Architecture
 
 ### 1. Transformer Basics
-- [ ] [Attention Mechanism](/02.大语言模型架构/1.attention/1.attention.md) | Date: _____
-- [ ] [Positional Encoding](/02.大语言模型架构/3.位置编码/3.位置编码.md) | Date: _____
-- [ ] [Transformer Architecture Details](/02.大语言模型架构/Transformer架构细节/Transformer架构细节.md) | Date: _____
+- [+] [Attention Mechanism](/02.大语言模型架构/1.attention/1.attention.md) | Date: 20250802
+- [+] [Positional Encoding](/02.大语言模型架构/3.位置编码/3.位置编码.md) | Date: 20250802
+- [+] [Transformer Architecture Details](/02.大语言模型架构/Transformer架构细节/Transformer架构细节.md) | Date: 20250802
 
 ### 2. Advanced Architectures
 - [ ] [BERT Details](/02.大语言模型架构/bert细节/bert细节.md) | Date: _____
