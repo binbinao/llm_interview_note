@@ -28,11 +28,11 @@ Use `+` to mark completed items and add the date when finished.
 - [+] [Transformer Architecture Details](/02.大语言模型架构/Transformer架构细节/Transformer架构细节.md) | Date: 20250802
 
 ### 2. Advanced Architectures
-- [ ] [BERT Details](/02.大语言模型架构/bert细节/bert细节.md) | Date: _____
-- [ ] [BERT Variants](/02.大语言模型架构/bert变种/bert变种.md) | Date: _____
-- [ ] [LLaMA Series](/02.大语言模型架构/llama系列模型/llama系列模型.md) | Date: _____
-- [ ] [LLaMA 2 Code Explanation](</02.大语言模型架构/llama 2代码详解/llama 2代码详解.md>) | Date: _____
-- [ ] [LLaMA 3](</02.大语言模型架构/llama 3/llama 3.md>) | Date: _____
+- [+] [BERT Details](/02.大语言模型架构/bert细节/bert细节.md) | Date: 20250803
+- [+] [BERT Variants](/02.大语言模型架构/bert变种/bert变种.md) | Date: 20250803
+- [+] [LLaMA Series](/02.大语言模型架构/llama系列模型/llama系列模型.md) | Date: 20250803
+- [+] [LLaMA 2 Code Explanation](</02.大语言模型架构/llama 2代码详解/llama 2代码详解.md>) | Date: 20250803
+- [+] [LLaMA 3](</02.大语言模型架构/llama 3/llama 3.md>) | Date: 20250803
 
 ### 3. Attention Variants
 - [ ] [MHA, MQA, GQA](/02.大语言模型架构/MHA_MQA_GQA/MHA_MQA_GQA.md) | Date: _____
