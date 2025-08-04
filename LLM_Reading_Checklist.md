@@ -35,23 +35,23 @@ Use `+` to mark completed items and add the date when finished.
 - [+] [LLaMA 3](</02.大语言模型架构/llama 3/llama 3.md>) | Date: 20250803
 
 ### 3. Attention Variants
-- [ ] [MHA, MQA, GQA](/02.大语言模型架构/MHA_MQA_GQA/MHA_MQA_GQA.md) | Date: _____
+- [+] [MHA, MQA, GQA](/02.大语言模型架构/MHA_MQA_GQA/MHA_MQA_GQA.md) | Date: 20250803
 
 ## Phase 3: Training and Optimization
 
 ### 1. Distributed Training
-- [ ] [Overview](/04.分布式训练/1.概述/1.概述.md) | Date: _____
-- [ ] [Data Parallelism](/04.分布式训练/2.数据并行/2.数据并行.md) | Date: _____
-- [ ] [Pipeline Parallelism](/04.分布式训练/3.流水线并行/3.流水线并行.md) | Date: _____
-- [ ] [Tensor Parallelism](/04.分布式训练/4.张量并行/4.张量并行.md) | Date: _____
+- [+] [Overview](/04.分布式训练/1.概述/1.概述.md) | Date: 20250804
+- [+] [Data Parallelism](/04.分布式训练/2.数据并行/2.数据并行.md) | Date: 20250804
+- [+] [Pipeline Parallelism](/04.分布式训练/3.流水线并行/3.流水线并行.md) | Date: 20250804
+- [+] [Tensor Parallelism](/04.分布式训练/4.张量并行/4.张量并行.md) | Date: 20250804
 - [ ] [Sequence Parallelism](/04.分布式训练/5.序列并行/5.序列并行.md) | Date: _____
 - [ ] [Multi-Dimensional Hybrid Parallelism](/04.分布式训练/6.多维度混合并行/6.多维度混合并行.md) | Date: _____
 - [ ] [Automatic Parallelism](/04.分布式训练/7.自动并行/7.自动并行.md) | Date: _____
 - [ ] [MoE Parallelism](/04.分布式训练/8.moe并行/8.moe并行.md) | Date: _____
-- [ ] [Summary](/04.分布式训练/9.总结/9.总结.md) | Date: _____
+- [+] [Summary](/04.分布式训练/9.总结/9.总结.md) | Date: 20250804
 
 ### 2. Fine-tuning
-- [ ] [Basic Concepts](/05.有监督微调/1.基本概念/1.基本概念.md) | Date: _____
+- [+] [Basic Concepts](/05.有监督微调/1.基本概念/1.基本概念.md) | Date: 20250804
 - [ ] [Fine-tuning](/05.有监督微调/1.微调/1.微调.md) | Date: _____
 - [ ] [LoRA](/05.有监督微调/4.lora/4.lora.md) | Date: _____
 - [ ] [ChatGLM3 Fine-tuning](/05.有监督微调/ChatGLM3微调/ChatGLM3微调.md) | Date: _____
